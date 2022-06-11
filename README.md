@@ -16,6 +16,7 @@ Working on Jeff Labs
 </h2>
 
 <ul>
+<li>SwiftUI</li>
 <li>Swift Package Manager</li>
 <li>Client & Live dependencies</li>
 <li>Modularization and multifrontend</li>
