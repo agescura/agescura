@@ -1,5 +1,5 @@
 <h1>
-<img src="images/portrait.png" width="50" /> Hi! How is it going?
+<img src="images/portrait.png" width="50" /> How is it going?
 </h1>
 
 <p> 
