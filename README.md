@@ -19,13 +19,13 @@ Working on Jeff Labs
 <li>Swift Package Manager</li>
 <li>Client & Live dependencies</li>
 <li>Modularization and multifrontend</li>
-<li>Navigation and url routing parser from <a style="text-decorations:none; color:inherit;" href="https://www.pointfree.co">Pointfree.co</a></li>
+<li>Navigation and url routing parser from <a href="https://www.pointfree.co">Pointfree.co</a></li>
 </ul>
 
 <h2>Background</h2>
 
 <ul>
-<li><a style="text-decorations:none; color:inherit;" href="https://www.uji.es/estudis/base/2022/graus/informatica/">Computer science degree</a></li>
-<li><a style="text-decorations:none; color:inherit;" href="https://mastergeotech.info/">Master of science in geospatial technologies</a></li>
-<li><a style="text-decorations:none; color:inherit;" href="https://www.salleurl.edu/es/estudios/master-en-metodos-agiles">Master of agile methods</a></li>
+<li><a href="https://www.uji.es/estudis/base/2022/graus/informatica/">Computer science degree</a></li>
+<li><a href="https://mastergeotech.info/">Master of science in geospatial technologies</a></li>
+<li><a href="https://www.salleurl.edu/es/estudios/master-en-metodos-agiles">Master of agile methods</a></li>
 </ul>
