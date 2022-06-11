@@ -23,10 +23,11 @@ Working on Jeff Labs
 <li>Navigation and url routing parser from <a href="https://www.pointfree.co">Pointfree.co</a></li>
 </ul>
 
-<h2>Apps</h2>
+<h2>Side project <a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></h2>
 
 <ul>
-<li><a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></li>
+<li>SwiftUI</li>
+<li>The Composable Architecture by <a href="https://www.pointfree.co">Pointfree.co</a></li>
 </ul>
 
 
