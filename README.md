@@ -18,7 +18,7 @@ Working on Jeff Labs
 <ul>
 <li>Swift Package Manager</li>
 <li>Client & Live dependencies</li>
-<li>Modularization and multifrontends</li>
+<li>Modularization and multifrontend</li>
 <li>Navigation and url routing parser from <a style="text-decorations:none; color:inherit;" href="https://www.pointfree.co">Pointfree.co</a></li>
 </ul>
 
