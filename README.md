@@ -49,6 +49,13 @@ Working on Jeff Labs
 <li><a href="https://www.salleurl.edu/es/estudios/master-en-metodos-agiles">Master of agile methods</a></li>
 </ul>
 
+<h2>Books</h2>
+
+<ul>
+<li>Clean craftmanship, Robert C. Martin</li>
+<li>Código sostenible, Carlos Ble</li>
+</ul>
+
  <h3>
 Contact
 </h3>
