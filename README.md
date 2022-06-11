@@ -35,6 +35,7 @@ Working on Jeff Labs
 <ul>
 <li>Heroku Swift Server Side</li>
 <li>Mongo Cloud</li>
+<li>HomeKit</li>
 <li>SwiftUI</li>
 <li>The Composable Architecture by <a href="https://www.pointfree.co">Pointfree.co</a></li>
 </ul>
