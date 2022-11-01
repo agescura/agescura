@@ -3,7 +3,7 @@
 </h1>
 
 <p> 
-  <img alt="Ventura" src="https://img.shields.io/badge/macos-monterey-purple.svg" /> 
+  <img alt="Ventura" src="https://img.shields.io/badge/macos-ventura-purple.svg" /> 
   <img alt="Swift" src="https://img.shields.io/badge/swift-5.7-orange.svg" /> 
   <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-4.0-darkblue" />
   <img alt="Xcode" src="https://img.shields.io/badge/xcode-14-blue" />
