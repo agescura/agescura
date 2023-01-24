@@ -11,15 +11,6 @@
 
 <p>I'm Albert, mobile developer from <b>Spain</b>
 
-<h2>
-Working on Experis
-</h2>
-
-<ul>
-<li>Swift</li>
-<li>iOS</li>
-</ul>
-
 <h2>Side project <a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></h2>
 
 <ul>
