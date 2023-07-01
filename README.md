@@ -3,10 +3,10 @@
 </h1>
 
 <p> 
-  <img alt="Ventura" src="https://img.shields.io/badge/macos-ventura-purple.svg" /> 
-  <img alt="Swift" src="https://img.shields.io/badge/swift-5.7-orange.svg" /> 
-  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-4.0-darkblue" />
-  <img alt="Xcode" src="https://img.shields.io/badge/xcode-14-blue" />
+  <img alt="Ventura" src="https://img.shields.io/badge/macos-sonoma-purple.svg" /> 
+  <img alt="Swift" src="https://img.shields.io/badge/swift-5.9-orange.svg" /> 
+  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-5.0-darkblue" />
+  <img alt="Xcode" src="https://img.shields.io/badge/xcode-15-blue" />
 </p>
 
 <p>I'm Albert, mobile developer from <b>Spain</b>
