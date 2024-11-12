@@ -11,14 +11,14 @@
 
 <p>I'm Albert, mobile developer from <b>Spain</b>
 
-<h2>Side project <a href="https://github.com/agescura/swift-request">swift-request</a></h2>
+<h2><a href="https://github.com/agescura/swift-request">swift-request</a></h2>
 
 <ul>
 <li>Swift, protocols and generics</li>
 <li>Builders</li>
 </ul>
 
-<h2>Side project <a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></h2>
+<h2><a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></h2>
 
 <ul>
 <li>SwiftUI</li>
