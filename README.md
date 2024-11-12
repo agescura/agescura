@@ -5,7 +5,7 @@
 <p> 
   <img alt="Ventura" src="https://img.shields.io/badge/macos-sequoia-purple.svg" /> 
   <img alt="Swift" src="https://img.shields.io/badge/swift-6.0-orange.svg" /> 
-  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-6.0-darkblue" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-6-darkblue" />
   <img alt="Xcode" src="https://img.shields.io/badge/xcode-16-blue" />
 </p>
 
