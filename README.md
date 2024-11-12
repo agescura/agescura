@@ -3,13 +3,20 @@
 </h1>
 
 <p> 
-  <img alt="Ventura" src="https://img.shields.io/badge/macos-sonoma-purple.svg" /> 
-  <img alt="Swift" src="https://img.shields.io/badge/swift-5.9-orange.svg" /> 
-  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-5.0-darkblue" />
-  <img alt="Xcode" src="https://img.shields.io/badge/xcode-15-blue" />
+  <img alt="Ventura" src="https://img.shields.io/badge/macos-sequoia-purple.svg" /> 
+  <img alt="Swift" src="https://img.shields.io/badge/swift-6.0-orange.svg" /> 
+  <img alt="SwiftUI" src="https://img.shields.io/badge/swiftui-6.0-darkblue" />
+  <img alt="Xcode" src="https://img.shields.io/badge/xcode-16-blue" />
 </p>
 
 <p>I'm Albert, mobile developer from <b>Spain</b>
+
+<h2>Side project <a href="https://github.com/agescura/swift-request">swift-request</a></h2>
+
+<ul>
+<li>Swift, protocols and generics</li>
+<li>Builders</li>
+</ul>
 
 <h2>Side project <a href="https://apps.apple.com/us/app/id1587496005">Caro Diario</a></h2>
 
